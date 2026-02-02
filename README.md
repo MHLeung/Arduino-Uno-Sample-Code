@@ -1,5 +1,3 @@
-# HW
-HW list
 /* ============================================================
    PROJECT: sample code for notes 
    BEHAVIOUR:
